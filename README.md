@@ -1,8 +1,8 @@
 ### Task Day: 3
 
-1. How to compare two JSON have the same properties but different order?
-2. Use the rest countries API URL: https://restcountries.com/v3.1/all and display all the country flags in the console?
-3. Use the same rest countries and print all countries name, region, subregion and population?
+1. [How to compare two JSON have the same properties but different order?](https://github.com/Sharavanakumar35/day-3-task/edit/main/equalJson.js)
+2. [Use the rest countries API URL: https://restcountries.com/v3.1/all and display all the country flags in the console?](https://github.com/Sharavanakumar35/day-3-task/edit/main/index.html)
+3. [Use the same rest countries and print all countries name, region, subregion and population?](https://github.com/Sharavanakumar35/day-3-task/edit/main/index.html)
 
 # Note: 
 ## For question 1:
