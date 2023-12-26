@@ -12,5 +12,5 @@ Refer index.html, there I created a table that lists all the countries name, reg
 
 View of the table below 👇 
 
-![List of countries with name, region, subregion, population and flag](tableSS.png)
+![List of countries with name, region, subregion, population and flag](https://github.com/Sharavanakumar35/day-3-task/edit/main/tableSS.png)
 
