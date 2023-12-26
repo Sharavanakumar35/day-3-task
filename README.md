@@ -6,7 +6,7 @@
 
 # Note: 
 ## For question 1:
-Refer deepCopy.js file in the repo.
+Refer equalJson.js file in the repo. Output of the logic will be displayed in the console. 
 ## For question 2 and 3:
 Refer index.html, there I created a table that lists all the countries name, region, subregion, population and flag also.
 
